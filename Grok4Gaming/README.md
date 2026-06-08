@@ -1,0 +1,1 @@
+The current README.md content from the local file, which documents the game and mentions the GitHub push capability.
